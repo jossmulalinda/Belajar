@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Nama    : Jos Gilbert Oppenheimer Mulalinda
+NPM     : 07352311068
+KELAS   : 5IF2
